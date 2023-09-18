@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justicejessica
-- 🌱 I’m currently working on: Navigate
+- 🌱 I’m currently working on: [Digital Media Hub](https://www.veritone.com/applications/digital-media-hub/)
 - ❤️ I like: cats, live music, reading, house plants, anime
 - 📫 How to reach me: jjustice@veritone.com
 
